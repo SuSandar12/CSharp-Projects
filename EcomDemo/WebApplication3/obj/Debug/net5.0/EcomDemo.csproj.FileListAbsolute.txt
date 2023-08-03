@@ -1,0 +1,17 @@
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.csprojAssemblyReference.cache
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.AssemblyInfoInputs.cache
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.AssemblyInfo.cs
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.csproj.CoreCompileInputs.cache
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.RazorAssemblyInfo.cache
+C:\00_Code\Suzy\Demo1\WebApplication3\WebApplication3\obj\Debug\net5.0\EcomDemo.RazorAssemblyInfo.cs
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.csprojAssemblyReference.cache
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.AssemblyInfoInputs.cache
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.AssemblyInfo.cs
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.csproj.CoreCompileInputs.cache
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.RazorAssemblyInfo.cache
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.RazorAssemblyInfo.cs
+C:\00_Code\Suzy\Demo1\EcomDemo\WebApplication3\obj\Debug\net5.0\EcomDemo.csproj.AssemblyReference.cache

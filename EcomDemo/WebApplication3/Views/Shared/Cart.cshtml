@@ -1,0 +1,45 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Cart";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+<body>
+    <h3>Cart Page</h3>
+    <table cellpadding="1" cellspacing="2" border="1">
+        <tr>
+            <td>Option</td>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Photo</td>
+            <td>Price</td>
+            <td>Quantity</td>
+            <td>Sub Total</td>
+        </tr>
+        @foreach (var item in ViewBag.cart)
+        {
+            <tr>
+                <td class="d-lg-table-cell"><a asp-controller="cart" asp-action="remove" asp-route-id="@item.Product.Id">Remove</a> </td>
+                <td class="d-lg-table-cell">@item.Product.Id</td>
+                <td class="d-lg-table-cell">@item.Product.Name</td>
+                <td class="d-lg-table-cell"><img src="~/images/@item.Product.Photo" width="100" /> </td>
+                <td class="d-lg-table-cell">@item.Product.Price</td>
+                <td class="d-lg-table-cell">@item.Quantity</td>
+                <td class="d-lg-table-cell">@(item.Product.Price * item.Quantity )</td>
+            </tr>
+        }
+        <tr>
+            <td align="right" colspan="6">Sum</td>
+            <td>
+                @ViewBag.total
+            </td>
+        </tr>
+    </table>
+    <a asp-controller="product" asp-action="index">Continue Shoppping</a>
+    <a asp-controller="checkout" asp-action="index" asp-route-id="">Go to Checkout</a>
+</body>
+</html>
